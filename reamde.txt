@@ -24,3 +24,5 @@ Since your iTunes Connect status is Rejected, a new binary will be required. Mak
 Hello world haha
 
 What you are doing 
+
+One midify
