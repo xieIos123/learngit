@@ -1,0 +1,9 @@
+Guideline 4.3 - Design
+
+
+This app duplicates the content and functionality of other apps submitted by you or another developer to the App Store, which is considered a form of spam.
+
+Apps that simply duplicate content or functionality create clutter, diminish the overall experience for the end user, and reduce the ability of developers to market their apps.
+
+The next submission of this app may require a longer review time, and this app will not be eligible for an expedited review until this issue is resolved.
+
