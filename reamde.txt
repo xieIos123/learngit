@@ -22,3 +22,5 @@ If you believe your app is compliant with the App Store Review Guidelines, you m
 Since your iTunes Connect status is Rejected, a new binary will be required. Make the desired metadata changes when you upload the new binary
 
 Hello world haha
+
+What you are doing 
