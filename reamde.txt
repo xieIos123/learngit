@@ -35,3 +35,4 @@ Creat new branch is quit
 
 Creat new branch 2
 
+Creating a new branch is quick & simple.
